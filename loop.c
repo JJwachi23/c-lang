@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Loop ()
+// Loop () function loop
 // 1. while
 // 2. for
 // 3. do...while
