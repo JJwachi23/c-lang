@@ -33,3 +33,11 @@ int main() {
     // * return for end the function
     return 0;
 }
+
+// Git version control
+
+// git add . = Added file (All of file change)
+
+// Add:
+// Edit:
+// Deleted:
