@@ -3,7 +3,7 @@
   ```
   git add . 
   ```
-  git add . it's means added all of file change
+  git add . it's means all of file change
 
   ```
   git add main.c
